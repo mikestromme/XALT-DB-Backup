@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "XALT DB Backup", "XALT DB Backup\XALT DB Backup.dtproj", "{FA65A2AC-39D0-4EA0-A4A7-4C5FF8A47EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA65A2AC-39D0-4EA0-A4A7-4C5FF8A47EE0}.Development|Default.ActiveCfg = Development
+		{FA65A2AC-39D0-4EA0-A4A7-4C5FF8A47EE0}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE217D6B-099E-4A83-90D0-77AAE873B95B}
+	EndGlobalSection
+EndGlobal
